@@ -1,2 +1,2 @@
-# tsv-evaluator
-A quick and dirty demo of an "A or B" evaluation interface
+# tsv-translation-sampler
+A viewer for aggregated translations in a TSV format
